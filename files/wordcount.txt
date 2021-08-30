@@ -1,0 +1,8 @@
+spark   spark   hello
+flink   world   hello
+good man    good    good good
+
+
+
+分区数确定 ，数据分区分配源码
+作业提交的流程、rdd.collect() => runjob 
